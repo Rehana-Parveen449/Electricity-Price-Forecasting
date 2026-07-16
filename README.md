@@ -151,16 +151,6 @@ After evaluation, **Random Forest Regressor** achieved the best overall performa
 | RMSE | **379.22** |
 
 
-## Application Preview
-
-![Home](screenshots/app_home.png)
-
-![Prediction](screenshots/prediction_result.png)
-
-## Model Comparison
-
-![Comparison](screenshots/model_comparison.png)
-
 ---
 
 # Streamlit Application
